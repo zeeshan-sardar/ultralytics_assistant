@@ -28,7 +28,7 @@ CHUNK_OVERLAP_LINES: int = 10
 
 DEFAULT_TOP_K: int = 6
 LLM_TEMPERATURE: float = 0.2
-LLM_MAX_TOKENS: int = 1024
+LLM_MAX_TOKENS: int = 2048
 
 
 def validate() -> list[str]:

@@ -101,3 +101,9 @@ Cross-encoder re-ranking was skipped to keep latency low. Query classification a
 - Experiment tracking using MLflow to track all the changes (models, prompt template, chunk-size, parsing method) in each component of the pipeline.
 - RAGAS evaluation to calculate the faitfullness, correctness, precision and recall.
 - Rate limiting and request queuing to handle usage spikes without dropping requests or degrading response quality
+
+## Working Screenshots
+
+
+## Demo
+![Alt Text](./docs/demo.gif)
